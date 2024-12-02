@@ -31,6 +31,15 @@ readme.md file.
 
 * you can also see commits in github also
 
-9. now change any file on github
+9. now to see what changes are done by your partner and check into your machine, change any file on github via
+clicking on edit icon in your repo and commit it , the changes you made are not on local machine, to add
+those changes:
+
+// git pull 
+
+OR
+
+// git merge 
+
 
 
